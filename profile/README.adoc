@@ -1,0 +1,20 @@
+Welcome to the Database Audits organization.
+Database Audits is a library for identifying
+database schema configuration and performance related issues.
+
+== Database Audits: Core
+
+[frame=none, grid=none]
+|===
+| Source Code | https://github.com/database-audits/core
+| Documentation | https://database-audits.github.io/core
+| Build Status | image:https://github.com/database-audits/core/actions/workflows/build-any-branch.yml/badge.svg?branch=main[main branch build, link="https://github.com/database-audits/core/actions/workflows/build-any-branch.yml?query=branch%3Amain"]
+|===
+
+== Database Audits: Spring Boot Integration
+[frame=none, grid=none]
+|===
+| Source Code | https://github.com/database-audits/spring-boot
+| Documentation | https://database-audits.github.io/spring-boot
+| Build Status | image:https://github.com/database-audits/spring-boot/actions/workflows/build-any-branch.yml/badge.svg?branch=main[main branch build, link="https://github.com/database-audits/spring-boot/actions/workflows/build-any-branch.yml/badge.svg?branch=main"]
+|===
