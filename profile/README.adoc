@@ -14,7 +14,7 @@ database schema configuration and performance related issues.
 == Database Audits: Spring Boot Integration
 [frame=none, grid=none]
 |===
-| Source Code | https://github.com/database-audits/spring-boot
-| Documentation | https://database-audits.github.io/spring-boot
-| Build Status | image:https://github.com/database-audits/spring-boot/actions/workflows/build-any-branch.yml/badge.svg?branch=main[main branch build, link="https://github.com/database-audits/spring-boot/actions/workflows/build-any-branch.yml/badge.svg?branch=main"]
+| Source Code | https://github.com/database-audits/spring-boot-integration
+| Documentation | https://database-audits.github.io/spring-boot-integration
+| Build Status | image:https://github.com/database-audits/spring-boot-integration/actions/workflows/build-any-branch.yml/badge.svg?branch=main[main branch build, link="https://github.com/database-audits/spring-boot-integration/actions/workflows/build-any-branch.yml/badge.svg?branch=main"]
 |===
